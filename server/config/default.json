@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://recipeApp:recipeApp@recipeproject.tjknz.mongodb.net/RecipeProject?retryWrites=true&w=majority"
+}
